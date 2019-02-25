@@ -108,3 +108,8 @@ from .update_mupq import update_mupq
 
 from .t.test_pypower import test_pypower
 from .t.t_case30_userfcns import t_case30_userfcns
+
+from .runpf_fast import runpf_fast
+from .newtonpf_fast import newtonpf_fast
+
+from .get_matrices import get_matrices
